@@ -5,4 +5,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # percona/percona-xtradb-cluster
 percona/percona-xtradb-cluster:5.7.21
 mysql:5.7
-haproxy:2.4.27
+haproxy:3.0.3
